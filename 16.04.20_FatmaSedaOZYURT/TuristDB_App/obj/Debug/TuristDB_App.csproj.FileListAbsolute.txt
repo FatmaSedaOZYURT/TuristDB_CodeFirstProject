@@ -1,0 +1,14 @@
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\TuristDB_App.exe.config
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\TuristDB_App.exe
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\TuristDB_App.pdb
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\EntityFramework.dll
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\EntityFramework.xml
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.csprojAssemblyReference.cache
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.Properties.Resources.resources
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.csproj.GenerateResource.cache
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.csproj.CopyComplete
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.exe
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.pdb
+C:\Users\fsozy\OneDrive\Masaüstü\16.04.20_FatmaSedaOZYURT\TuristDB_App\obj\Debug\TuristDB_App.Form1.resources

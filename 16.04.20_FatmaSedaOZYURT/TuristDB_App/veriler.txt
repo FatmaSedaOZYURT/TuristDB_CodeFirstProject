@@ -1,0 +1,29 @@
+Levi;Acevedo;K;1991.06.11;Japanese;Italy;Ozan;Temiz;5556544343;2012.11.01;Ayasofya
+Levi;Acevedo;K;1991.06.11;Japanese;Italy;Ozan;Temiz;5556544343;2012.11.01;Yerebatan Sarnıcı
+Basil;Aguilar;E;1994.04.22;Greek;Greek;Bahar;Sevgin;5556544344;2014.08.11;Pierre Loti
+Basil;Aguilar;E;1994.04.22;Greek;Greek;Bahar;Sevgin;5556544344;2014.08.11;Kız Kulesi
+Zenaida;Holder;E;1990.01.09;Finnish;Greek;Ömer;Uçar;5556544345;2014.02.04;Adalar
+Zenaida;Holder;E;1990.01.09;Finnish;Greek;Ömer;Uçar;5556544345;2014.02.04;Ayasofya
+Zenaida;Holder;E;1990.01.09;Finnish;Greek;Ömer;Uçar;5556544345;2014.02.04;Dolmabahçe Sarayı
+Illana;Browning;K;1991.01.28;Greek;English;Sevgi;Çakmak;5556544346;2014.05.01;Miniatürk
+Illana;Browning;K;1991.01.28;Greek;English;Sevgi;Çakmak;5556544346;2014.05.01;Sultan Ahmet Camii
+Raja;Duke;E;1983.07.27;Dutch;Dutch;Bahar;Sevgin;5556544344;2014.09.08;Rumeli Hisarı
+Isaiah;Valdez;E;1998.01.16;Finnish;Finnish;Ozan;Temiz;5556544343;2012.08.28;Dolmabahçe Sarayı
+Isaiah;Valdez;E;1998.01.16;Finnish;Finnish;Ozan;Temiz;5556544343;2012.08.28;Mısır Çarşısı
+Gray;Marshall;K;1980.11.21;Japanese;Japanese;Linda;Callahan;5556544349;2013.08.27;Rumeli Hisarı
+Gray;Marshall;K;1980.11.21;Japanese;Japanese;Linda;Callahan;5556544349;2013.08.27;Kız Kulesi
+Ora;Fletcher;K;1994.01.19;English;English;Bahar;Sevgin;5556544344;2014.08.23;Anadolu Hisarı
+Ora;Fletcher;K;1994.01.19;English;English;Bahar;Sevgin;5556544344;2014.08.23;Eyüp Sultan Camii
+Lavinia;Lloyd;K;1986.10.26;English;English;Ozan;Temiz;55565544343;2012.03.26;Pierre Loti
+Lavinia;Lloyd;K;1986.10.26;English;English;Ozan;Temiz;55565544343;2012.03.26;Kız Kulesi
+Jenna;Williams;K;1982.05.01;Greek;Greek;Ömer;Uçar;5556544345;2014.11.26;Atatürk Arboretumu
+Jenna;Williams;K;1982.05.01;Greek;Greek;Ömer;Uçar;5556544345;2014.11.26;Dolmabahçe Sarayı
+Christian;Nash;E;1980.08.09;English;English;Ömer;Uçar;5556544345;2013.02.15;Kapalıçarşı
+Christian;Nash;E;1980.08.09;English;English;Ömer;Uçar;5556544345;2013.02.15;Mısır Çarşısı
+Basil;Aguilar;E;1994.04.22;Greek;Greek;Ozan;Temiz;555654434;2014.09.09;Atatürk Arboretumu
+Brianna;Everett;E;1978.09.03;Japanese;Japanese;Bahar;Sevgin;5556544344;2013.04.19;Pierre Loti
+Brianna;Everett;E;1978.09.03;Japanese;Japanese;Bahar;Sevgin;5556544344;2013.04.19;Kız Kulesi
+Geoffrey;Knowles;E;1985.02.17;Ukrainian;Ukrainian;Linda;Callahan;5556544349;2014.01.26;Mısır Çarşısı
+Geoffrey;Knowles;E;1985.02.17;Ukrainian;Ukrainian;Linda;Callahan;5556544349;2014.01.26;Atatürk Arboretumu
+Quinn;Hamilton;E;1990.07.10;English;English;Sevgi;Çakmak;5556544346;2013.12.04;Miniatürk
+Quinn;Hamilton;E;1990.07.10;English;English;Sevgi;Çakmak;5556544346;2013.12.04;Kız Kulesi
